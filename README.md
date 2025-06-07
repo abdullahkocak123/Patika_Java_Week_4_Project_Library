@@ -12,3 +12,4 @@ You can perform these tasks by entering their number:
 
  ## INSTALLATION
  There is no installation needed. Program runs at console.
+
